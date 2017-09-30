@@ -1,14 +1,11 @@
 /* Custom Stylesheet */
 /**
- * Use this file to override Materialize files so you can update
- * the core Materialize files in the future
- *
- * Made By MaterializeCSS.com
+ * By Guillermo Garrido
  */
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #0000FF;
 }
 
 p {
@@ -17,6 +14,13 @@ p {
 
 .button-collapse {
   color: #26a69a;
+}
+
+#download-button {
+	margin-left: 75px;
+}
+#download-buttontwo {
+	margin-right: 70px;
 }
 
 .parallax-container {
