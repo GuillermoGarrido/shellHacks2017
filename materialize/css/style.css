@@ -5,15 +5,27 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #0000FF;
+  color: #004d40;
 }
 
+li {
+	font-size: 16px;
+	color: #004d40;
+}
 p {
   line-height: 2rem;
 }
 h1 {
 	font-family: Impact;
 }
+
+h4 {
+	color: #808080;
+}
+h5 {
+	color: #004d40;
+}
+
 .button-collapse {
   color: #26a69a;
 }
