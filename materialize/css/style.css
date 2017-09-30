@@ -20,7 +20,7 @@ h1 {
 }
 
 h4 {
-	color: #808080;
+	color: #000;
 }
 h5 {
 	color: #004d40;
@@ -32,9 +32,11 @@ h5 {
 
 #download-button {
 	margin-left: 75px;
+	border-radius: 10px;
 }
 #download-buttontwo {
 	margin-right: 70px;
+	border-radius: 10px;
 }
 
 .parallax-container {
