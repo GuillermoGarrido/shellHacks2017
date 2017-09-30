@@ -2,7 +2,7 @@
 
 Team Members: Guillermo Garrido, Adrian Perez, Ariel Antunez, Andres Valdes 
 
-Project: Supply Smiles
+#Project: Supply Smiles
 
 
 
