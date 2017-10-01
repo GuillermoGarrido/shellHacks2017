@@ -16,7 +16,9 @@ p {
   line-height: 2rem;
 }
 h1 {
-	font-family: Impact;
+	font-family: Bodoni MT;
+	font-weight: bold; 
+	font-size: 60px;
 }
 
 h4 {
@@ -24,6 +26,13 @@ h4 {
 }
 h5 {
 	color: #004d40;
+}
+
+img {
+	color: #004d40;
+	position: center;
+	margin: auto;
+	/*margin-left: 100px; */
 }
 
 .button-collapse {
