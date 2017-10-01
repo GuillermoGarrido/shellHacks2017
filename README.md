@@ -15,4 +15,7 @@ What you need to provide:
 * Your age
 * Any affiliation with a company
 
-##
+## Other Notes
+
+*The CSS was coded using the [Materialize framework](http://materializecss.com/about.html)
+
