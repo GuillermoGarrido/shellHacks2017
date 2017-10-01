@@ -17,6 +17,5 @@ What you need to provide:
 
 ## Other Notes
 
-* The CSS was coded using the [Materialize framework](http://materializecss.com/about.html)
-
-
+* The CSS was coded using the [Materialize framework](http://materializecss.com/about.html).
+* This project was completed as an entry for the 2017 ShellHacks competition.
