@@ -13,7 +13,7 @@ What you need to provide:
 * Your email
 * A new password for your account
 * Your age
-* Any affiliation with a company
+* Any current affiliation with a company or university
 
 ## Other Notes
 
